@@ -1,4 +1,4 @@
-### How you doin'!!! :octocat:
+### How you doin'!!! :feelsgood:
 
 - 🔭 I’m currently working on Basetis as a Data Scientist
 - :books: I'm finishing the degree of Computer Science at Universitat Politecnica de Catalunya
